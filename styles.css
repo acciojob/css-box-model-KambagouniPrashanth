@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+.div1{
+	margin:20px;
+	padding:20px;
+	border:2px solid black;
+}
+.div2{
+	padding:20px;
+	border:15px solid blue;
+	background-color:blue;
+	color:black;
+	
+}
+.div2 p{
+	position:relative:
+	top:-10px;
+}
+.div3{
+	padding:50px;
+	border:2px solid blue;
+	background-color:lightblue;
+}
+.div4{
+	padding:8px;
+	
+	border:2px solid black;
+	width:300px;
+	
+}
+.div5{
+	border:2px dotted black;
+}
